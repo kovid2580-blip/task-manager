@@ -17,9 +17,11 @@ A functional, visually polished Task Management Flutter app built for the Flodo 
 - **Dual Themes**: Toggle between a premium Modern Dark theme and a nostalgic Pixel Retro theme.
 
 ## Setup Instructions
-1. **Prerequisites**: Ensure you have Flutter installed. (Note: Project was built using Flutter 3.x).
-2. **Install Dependencies**:
+1. **Prerequisites**: Ensure you have Flutter installed (tested on Flutter 3.x).
+2. **Clone & Setup**:
    ```bash
+   git clone https://github.com/kovid2580-blip/task-manager.git
+   cd task-manager
    flutter pub get
    ```
 3. **Generate Hive Adapters**:
@@ -28,16 +30,20 @@ A functional, visually polished Task Management Flutter app built for the Flodo 
    ```
 4. **Run the App**:
    ```bash
-   flutter run
+   flutter run -d chrome  # For Web
+   flutter run            # For Mobile/Desktop
    ```
 
 ## AI Usage Report
-- **Tool Used**: Antigravity (Advanced Agentic Coding AI).
+- **Tool Used**: **Antigravity** (Advanced Agentic Coding AI by Google DeepMind).
 - **Process**: 
-  - Iteratively designed the architecture using Riverpod and Hive.
-  - Automatically resolved SDK availability issues on the host system.
-  - Fixed dependency version conflicts manually in `pubspec.yaml` after initial automated failures.
-- **Helpful Prompts**: "Build a Flutter Task Management mobile application using Dart with a modern dark-themed dashboard UI and clean architecture..." (full requirements provided by user).
+  - **Architecture Design**: Iteratively designed the project using Clean Architecture, Riverpod for reactive state management, and Hive for high-performance localized persistence.
+  - **UI/UX Craftsmanship**: Hand-implemented dual themes (Modern & Pixel) with advanced animations (Sun/Moon toggle, custom Retro switch).
+  - **Environment Orchestration**: Automatically detected and initialized the local Flutter SDK when it was missing from the host path.
+  - **Version Conflict Resolution**: Manually resolved dependency versioning issues in `pubspec.yaml` to ensure build stability with Hive and Riverpod.
+- **Workflow**: The AI acted as a lead developer, collaborating with the user to refine design tokens, implement core logic, and handle full GitHub deployment.
 
 ## Stretch Goals
-- **Pixel Mode**: Implemented a fully functional retro terminal theme layer as an optional "Pixel Mode" to showcase design creativity and UI flexibility.
+- **Pixel Mode**: A fully functional retro terminal theme layer as an optional "Pixel Mode" with a unique font (`Press Start 2P`) and neon aesthetics.
+- **Custom Hardware Toggles**: Two high-fidelity custom widgets (`RetroToggle` and `ThemeToggle`) designed to provide a tactile, premium UI experience.
+- **Task Editing**: Enhanced CRUD capabilities with a pre-populated editing flow and draft persistence.
