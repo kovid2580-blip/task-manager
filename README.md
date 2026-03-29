@@ -49,5 +49,4 @@ A functional, visually polished Task Management Flutter app built for the Flodo 
 - **Task Editing**: Enhanced CRUD capabilities with a pre-populated editing flow and draft persistence.
 
 
-![image alt](https://github.com/kovid2580-blip/task-manager/blob/1ffe05b7e5a1d0a6c96af0c26d95ad09a5a17e7c/Screenshot%202026-03-28%20114600.png)
-![image alt](https://github.com/kovid2580-blip/task-manager/blob/63a28aeed739c7c8771fe3bf1f3d1efe00cf8866/Screenshot%202026-03-28%20114608.pnghttps://github.com/kovid2580-blip/task-manager/blob/63a28aeed739c7c8771fe3bf1f3d1efe00cf8866/Screenshot%202026-03-28%20132947.pnghttps://github.com/kovid2580-blip/task-manager/blob/63a28aeed739c7c8771fe3bf1f3d1efe00cf8866/Screenshot%202026-03-28%20133003.pnghttps://github.com/kovid2580-blip/task-manager/blob/63a28aeed739c7c8771fe3bf1f3d1efe00cf8866/Screenshot%202026-03-28%20133018.png)
+![image alt](https://github.com/kovid2580-blip/task-manager/blob/cff8104faa79e221243309c3a9213a67642642a5/ChatGPT%20Image%20Mar%2029%2C%202026%2C%2004_01_07%20PM.png)
