@@ -47,3 +47,6 @@ A functional, visually polished Task Management Flutter app built for the Flodo 
 - **Pixel Mode**: A fully functional retro terminal theme layer as an optional "Pixel Mode" with a unique font (`Press Start 2P`) and neon aesthetics.
 - **Custom Hardware Toggles**: Two high-fidelity custom widgets (`RetroToggle` and `ThemeToggle`) designed to provide a tactile, premium UI experience.
 - **Task Editing**: Enhanced CRUD capabilities with a pre-populated editing flow and draft persistence.
+
+
+![image alt](https://github.com/kovid2580-blip/task-manager/blob/1ffe05b7e5a1d0a6c96af0c26d95ad09a5a17e7c/Screenshot%202026-03-28%20114600.png)
