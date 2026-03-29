@@ -50,3 +50,4 @@ A functional, visually polished Task Management Flutter app built for the Flodo 
 
 
 ![image alt](https://github.com/kovid2580-blip/task-manager/blob/1ffe05b7e5a1d0a6c96af0c26d95ad09a5a17e7c/Screenshot%202026-03-28%20114600.png)
+![image alt](https://github.com/kovid2580-blip/task-manager/blob/63a28aeed739c7c8771fe3bf1f3d1efe00cf8866/Screenshot%202026-03-28%20114608.pnghttps://github.com/kovid2580-blip/task-manager/blob/63a28aeed739c7c8771fe3bf1f3d1efe00cf8866/Screenshot%202026-03-28%20132947.pnghttps://github.com/kovid2580-blip/task-manager/blob/63a28aeed739c7c8771fe3bf1f3d1efe00cf8866/Screenshot%202026-03-28%20133003.pnghttps://github.com/kovid2580-blip/task-manager/blob/63a28aeed739c7c8771fe3bf1f3d1efe00cf8866/Screenshot%202026-03-28%20133018.png)
